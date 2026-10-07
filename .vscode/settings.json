@@ -1,0 +1,5 @@
+{
+    "git.autoStash": true,
+    "git.alwaysSignOff": true,
+    "git.enableSmartCommit": true
+}
